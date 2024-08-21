@@ -1,5 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+![lenguajes-1200x734](https://github.com/user-attachments/assets/5704e677-cfa6-4261-9702-ac0757cbe48c)
 
 <h1 align="center">Hello 👋 I am Ronald Garcia</strong> ✨ </h1>
 
