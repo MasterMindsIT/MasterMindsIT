@@ -43,8 +43,4 @@
   </a>
 </p>
 <br>
-
-<br/>
-<br/>
-<br/>
- <h2>:star1:Projects</h2>
+ <h2>:star2:Projects</h2>
