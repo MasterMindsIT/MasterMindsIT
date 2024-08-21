@@ -4,11 +4,7 @@
 <h1 align="center">Hello 👋 I am Ronald Garcia</strong> ✨ </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
-</p>
 
-<p align="center">
-https://www.linkedin.com/in/ronald-garcia-vazquez/
     <a href="[https://www.linkedin.com/in/UnProgramadorNace](https://www.linkedin.com/in/ronald-garcia-vazquez/)"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@"/></a>
     
     <a href = "mailto:ronaldgarciavazquez@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
@@ -35,7 +31,7 @@ https://www.linkedin.com/in/ronald-garcia-vazquez/
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,npm,vite,regex&perline=4" />
   </a>
 
   <h2>:zap: Back End</h2>
