@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋 I am Ronald Garcia</strong> ✨ </h1>
 
 <p align="center">
-[https://www.linkedin.com/in/ronald-garcia-vazquez/ ]   
+  <a href="https://www.linkedin.com/in/ronald-garcia-vazquez"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@MasterMindsIT"/></a>
   </p>
 <br>
 <h2 align="center">Sobre mi 😎🤏</h2>
@@ -33,7 +33,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,idea,eclipse,maven,mysql,postgres,firebase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,idea,eclipse,maven,mysql,firebase,c#,php&perline=10" />
   </a>
 
 
