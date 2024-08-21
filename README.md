@@ -11,13 +11,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
+🎓 ANALISTA EN SISTEMAS
+  
+📝 Desarrollador de software, proactivo y autodidacta cada día
 
-📝 Desarrollador de software, proactivo y autodidacta, además de Youtuber de tecnología.
+💻 Tengo un par años de experiencia trabajando con JAVA | SPRING FRAMEWORK | LARAVEL | PHP
 
-💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT
-
-📫 Contacto: **unprogramadornace@gmail.com**
+📫 Contacto: **ronaldgarciavazquez@gmail.com**
 
 <!--Intro end-->
   </p>
@@ -28,22 +28,18 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,npm,vite,regex&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,npm,vite,regex&perline=10" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,idea,eclipse,maven,mysql,postgres,firebase&perline=6" />
   </a>
 
-  <h2>:hammer: Devops</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
-  </a>
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=10" />
   </a>
 </p>
 <br>
