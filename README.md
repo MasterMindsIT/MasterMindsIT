@@ -1,6 +1,13 @@
 ![lenguajes-1200x734](https://github.com/user-attachments/assets/a52a441b-4d45-4374-bc8a-2f5258b69765)
 
-<h1 align="center">Hello 👋 I am Ronald Garcia</strong> ✨ </h1>
+<h1 align="center"> 👋 👋 Hola, soy [Tu Ronald Garcia Vazquez 
+Soy estudiante de Ingeniería en Desarrollo de Software (Duoc UC), con experiencia previa en liderazgo, sistemas, y desarrollo de software.  
+Me apasiona el backend, las bases de datos y el diseño de sistemas.</strong> ✨ </h1>
+
+🔧 Actualmente trabajando con:
+- Java + Spring Boot
+- Oracle, PostgreSQL, MongoDB
+- Docker, Git, Jenkins
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronald-garcia-vazquez"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@MasterMindsIT"/></a>
@@ -10,12 +17,8 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ANALISTA EN SISTEMAS
-  
+🎓 ANALISTA EN SISTEMAS TECNICO SUPERIOR
 📝 Desarrollador de software, proactivo y autodidacta cada día
-
-💻 Tengo un par años de experiencia trabajando con JAVA | SPRING FRAMEWORK | LARAVEL | PHP
-
 📫 Contacto: **ronaldgarciavazquez@gmail.com**
 
 <!--Intro end-->
