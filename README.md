@@ -18,7 +18,9 @@ Me apasiona el backend, las bases de datos y el diseño de sistemas.</strong> �
 
 <p align="left">
 🎓 ANALISTA EN SISTEMAS TECNICO SUPERIOR
+  
 📝 Desarrollador de software, proactivo y autodidacta cada día
+
 📫 Contacto: **ronaldgarciavazquez@gmail.com**
 
 <!--Intro end-->
