@@ -1,4 +1,4 @@
-![MasterMindsIT]([https://github.com/MasterMindsIT/MasterMindsIT/blob/main/BannerMasterMindsIT.png])
+![Banner](https://github.com/MasterMindsIT/MasterMindsIT/blob/main/BannerMasterMindsIT.png)
 # 👋 Hola, soy Ronald Garcia Vazquez – Desarrollador Backend
 
 🎯 Soy estudiante de Ingeniería en Desarrollo de Software en Duoc UC (Chile) consolidsando mi Técnico Superior Analista en Sistemas, con una sólida experiencia previa en liderazgo, sistemas y atención al cliente. Actualmente me enfoco en el desarrollo backend con Java y Spring Boot, complementado por un manejo sólido de bases de datos relacionales y no relacionales.
