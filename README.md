@@ -50,7 +50,7 @@ Me apasiona el backend, la arquitectura de software y todo lo que implique apren
 ## 📫 Conectemos
 
 - 📍 Santiago Centro, Chile  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ronald-garcia-vazquez-rgvwebs)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronald-garcia-vazquez/)  
 - 💻 [GitHub](https://github.com/MasterMindsIT)  
 - 📧 ronaldgarciavazquez@gmail.com  
 
