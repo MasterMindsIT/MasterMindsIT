@@ -1,6 +1,6 @@
 ![lenguajes-1200x734](https://github.com/user-attachments/assets/a52a441b-4d45-4374-bc8a-2f5258b69765)
 
-<h1 align="center"> 👋 👋 Hola, soy [Tu Ronald Garcia Vazquez 
+<h1 align="center"> 👋 👋 Hola, soy Ronald Garcia Vazquez 
 Soy estudiante de Ingeniería en Desarrollo de Software (Duoc UC), con experiencia previa en liderazgo, sistemas, y desarrollo de software.  
 Me apasiona el backend, las bases de datos y el diseño de sistemas.</strong> ✨ </h1>
 
