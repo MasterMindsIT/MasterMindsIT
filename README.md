@@ -1,50 +1,71 @@
 ![lenguajes-1200x734](https://github.com/user-attachments/assets/a52a441b-4d45-4374-bc8a-2f5258b69765)
+# 👋 Hola, soy Ronald Garcia Vazquez – Desarrollador Backend
 
-<h1 align="center"> 👋 👋 Hola, soy Ronald Garcia Vazquez 
-Soy estudiante de Ingeniería en Desarrollo de Software (Duoc UC), con experiencia previa en liderazgo, sistemas, y desarrollo de software.  
-Me apasiona el backend, las bases de datos y el diseño de sistemas.</strong> ✨ </h1>
+🎯 Soy estudiante de Ingeniería en Desarrollo de Software en Duoc UC (Chile) consolidsando mi Técnico Superior Analista en Sistemas, con una sólida experiencia previa en liderazgo, sistemas y atención al cliente. Actualmente me enfoco en el desarrollo backend con Java y Spring Boot, complementado por un manejo sólido de bases de datos relacionales y no relacionales.
 
-🔧 Actualmente trabajando con:
-- Java + Spring Boot
-- Oracle, PostgreSQL, MongoDB
-- Docker, Git, Jenkins
+Después de muchos años en distintos rubros, decidí apostar por mi verdadera pasión: la tecnología. Me caracterizo por ser responsable, autodidacta y perseverante. Mi objetivo es consolidarme como desarrollador profesional y eventualmente trabajar en modalidad remota.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ronald-garcia-vazquez"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@MasterMindsIT"/></a>
-  </p>
-<br>
-<h2 align="center">Sobre mi 😎🤏</h2>
-<!--Intro start-->
+---
 
-<p align="left">
-🎓 ANALISTA EN SISTEMAS TECNICO SUPERIOR
-  
-📝 Desarrollador de software, proactivo y autodidacta cada día
+## 💼 Experiencia y habilidades
 
-📫 Contacto: **ronaldgarciavazquez@gmail.com**
+🔹 **Lenguajes y Frameworks**  
+- Java + Spring Boot  
+- PHP + Laravel  
+- JavaScript (básico)
+- C# .NET
 
-<!--Intro end-->
-  </p>
-<br>
+🔹 **Bases de datos**  
+- Oracle 21c  
+- PostgreSQL  
+- MySQL  
+- MongoDB  
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="center">
-  <h2>:star2: Front End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,npm,vite,bootstrap,regex&perline=10" />
-  </a>
+🔹 **Herramientas y DevOps**  
+- Git y GitHub  
+- Docker  
+- Jenkins  
+- Kubernetes (en proceso)  
 
-  <h2>:zap: Back End</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,idea,eclipse,maven,mysql,firebase,c#,php&perline=10" />
-  </a>
+🔹 **Otros conocimientos**  
+- Microservicios  
+- Arquitectura Hexagonal  
+- RESTful APIs  
+- Linux  
+- Firebase  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🛠 Sistema APIInvoice con Spring Boot y Postgres
+Desarrollado colaborativo realizado en TryCatch, sistema API Multiempresa multisucursal, roles dinámicos. Módulus: Facturar, Compras, Inventarios, Pagos aplicando arquitectura Monolito Modular(Modulith)
 
 
-  <h2>:wrench: Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=10" />
-  </a>
-</p>
-<br>
- <h2>:star2:Projects</h2>
+### 📦 API REST Crowdfunding StartApp
+Proyecto Crowdfunding StarApps Colaborativo con metodologías ágiles para NoCountry, Proyectos en busca de capital semilla, Manejo de Roles para el sistema, Integración de Paypal para cobros, Gestión de Usuarios
+
+
+### 📑 Proyecto Laravel para gestión destribuidora (privado)
+Proyecto real en producción usado por una pequeña empresa, con roles de usuario, ventas, cobros, reportes y autenticación. Módulos  productos, categorías y servicios Manejo de roles y permisos dinámicos gestión de tiendas y pedidos Gestión de cobros personalizados.
+
+---
+
+## 📚 En formación constante
+
+Actualmente cursando el último tramo de mi carrera en Duoc UC. También realicé un bootcamp fullstack Java certificado por SENCE. Mi enfoque es seguir mejorando tanto en backend como en cloud y arquitectura de software.
+
+---
+
+## 📫 Conectemos
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ronald-garcia-vazquez/)  
+- ✉️ Email: ronaldgarciavazquez@gmail.com  
+- 🌍 Vivo en Chile, disponible para trabajo remoto o presencial.
+
+---
+
+Gracias por visitar mi perfil 🙌  
+¡Siempre abierto a aprender, colaborar y crecer!
+
+<h2>:star2:Projects</h2>
