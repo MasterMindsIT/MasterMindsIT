@@ -1,71 +1,62 @@
 ![Banner](https://github.com/MasterMindsIT/MasterMindsIT/blob/main/BannerMasterMindsIT.png)
-# 👋 Hola, soy Ronald Garcia Vazquez – Desarrollador Backend
 
-🎯 Soy estudiante de Ingeniería en Desarrollo de Software en Duoc UC (Chile) consolidsando mi Técnico Superior Analista en Sistemas, con una sólida experiencia previa en liderazgo, sistemas y atención al cliente. Actualmente me enfoco en el desarrollo backend con Java y Spring Boot, complementado por un manejo sólido de bases de datos relacionales y no relacionales.
+# 👋 Hola, soy Ronald García Vázquez
 
-Después de muchos años en distintos rubros, decidí apostar por mi verdadera pasión: la tecnología. Me caracterizo por ser responsable, autodidacta y perseverante. Mi objetivo es consolidarme como desarrollador profesional y eventualmente trabajar en modalidad remota.
+🎯 Soy Desarrollador Backend en formación, con experiencia en proyectos reales tanto colaborativos como en producción. Actualmente estudio Ingeniería en Desarrollo de Software en Duoc UC, y mi enfoque profesional está en construir soluciones sólidas y escalables usando tecnologías como Java, Spring Boot y bases de datos robustas.
 
----
-
-## 💼 Experiencia y habilidades
-
-🔹 **Lenguajes y Frameworks**  
-- Java + Spring Boot  
-- PHP + Laravel  
-- JavaScript (básico)
-- C# .NET
-
-🔹 **Bases de datos**  
-- Oracle 21c  
-- PostgreSQL  
-- MySQL  
-- MongoDB  
-
-🔹 **Herramientas y DevOps**  
-- Git y GitHub  
-- Docker  
-- Jenkins  
-- Kubernetes (en proceso)  
-
-🔹 **Otros conocimientos**  
-- Microservicios  
-- Arquitectura Hexagonal  
-- RESTful APIs  
-- Linux  
-- Firebase  
+Me apasiona el backend, la arquitectura de software y todo lo que implique aprender y crecer. Tengo una mentalidad analítica, una fuerte ética de trabajo y me encanta trabajar en equipo bajo metodologías ágiles.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠 Tecnologías que uso
 
-### 🛠 Sistema APIInvoice con Spring Boot y Postgres
-Desarrollado colaborativo realizado en TryCatch, sistema API Multiempresa multisucursal, roles dinámicos. Módulus: Facturar, Compras, Inventarios, Pagos aplicando arquitectura Monolito Modular(Modulith)
-
-
-### 📦 API REST Crowdfunding StartApp
-Proyecto Crowdfunding StarApps Colaborativo con metodologías ágiles para NoCountry, Proyectos en busca de capital semilla, Manejo de Roles para el sistema, Integración de Paypal para cobros, Gestión de Usuarios
-
-
-### 📑 Proyecto Laravel para gestión destribuidora (privado)
-Proyecto real en producción usado por una pequeña empresa, con roles de usuario, ventas, cobros, reportes y autenticación. Módulos  productos, categorías y servicios Manejo de roles y permisos dinámicos gestión de tiendas y pedidos Gestión de cobros personalizados.
+- **Lenguajes y Frameworks:** Java, Spring Boot, PHP, Laravel, JavaScript (básico)  
+- **Bases de Datos:** Oracle, PostgreSQL, MySQL, MongoDB  
+- **DevOps & Herramientas:** Git, Docker, Jenkins, Linux  
+- **Metodologías:** Scrum, colaboración ágil, microservicios  
 
 ---
 
-## 📚 En formación constante
+## 🚀 Proyectos Destacados
 
-Actualmente cursando el último tramo de mi carrera en Duoc UC. También realicé un bootcamp fullstack Java certificado por SENCE. Mi enfoque es seguir mejorando tanto en backend como en cloud y arquitectura de software.
+### 🔹 Sistema de Facturación Integral – Proyecto Colaborativo
+> Módulos para facturación, compras, inventarios y pagos.  
+> Multiempresa, multisucursal, roles dinámicos.  
+> Java 17 + Spring Boot 3.3  
+[🔗 GitHub](https://github.com/Try-Catch-Factory/3.2_t3.Facturacion_Back)
+
+### 🔹 Crowdfunding StarApps – Proyecto para NoCountry
+> CRUD de proyectos, integración con Paypal, roles de usuario.  
+> Proyecto colaborativo con metodología ágil.  
+[🔗 GitHub](https://github.com/No-Country/C17-39-M-Java)
+
+### 🔹 Sistema Distribuidora (Privado)
+> Gestión de productos, categorías, tiendas y pedidos.  
+> Laravel 10 + MySQL, sistema en uso real.  
+> Repositorio privado.
+
+### 🔹 Sistema Kinder (Privado)
+> CRUD dinámico de cursos, alumnos, tutores y cobros.  
+> Laravel 9 + MVC, sistema en producción.  
+> Repositorio privado.
+
+### 🔹 API Reservas Restaurante – Proyecto TryCatch-TV
+> Gestión de menú, reservas y anulaciones.  
+> Spring Boot 2.27  
+[🔗 GitHub](https://github.com/Trycatch-tv/Team-3-portal-reservas)
 
 ---
 
 ## 📫 Conectemos
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ronald-garcia-vazquez/)  
-- ✉️ Email: ronaldgarciavazquez@gmail.com  
-- 🌍 Vivo en Chile, disponible para trabajo remoto o presencial.
+- 📍 Santiago Centro, Chile  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronald-garcia-vazquez-rgvwebs)  
+- 💻 [GitHub](https://github.com/MasterMindsIT)  
+- 📧 ronaldgarciavazquez@gmail.com  
 
 ---
 
-Gracias por visitar mi perfil 🙌  
-¡Siempre abierto a aprender, colaborar y crecer!
+✨ *“Aprendiendo sin parar, construyendo con propósito.”*
+
 
 <h2>:star2:Projects</h2>
